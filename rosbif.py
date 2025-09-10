@@ -898,23 +898,23 @@ def menu():
     os.system("clear")
     print(logo)
     print(Colores.red + '''
-    [~] Welcome to Doxxer Toolkit!
+    [~] benvenuto a ROSBIF OSINT!!!!1!
                       
-    [1] IPloggers      
-    [2] Geolocate IP           
-    [3] Get information from a phone number
-    [4] Phishing       
-    [5] SMS                        
-    [6] Anonymous emails   
-    [7] User search 
-    [8] Generate fake information
-    [9] OSINT Pages
-    [10] Link shorteners
-    [11] Generate qr code
-    [12] OSINT Email (BETA)
+    [1] IPloggers     cristino 
+    [2] Geolocate IP      roberto     
+    [3] Get information from a phone number   francesco
+    [4] Phishing       rosbif
+    [5] SMS    cristino + francesco                    
+    [6] Anonymous emails   cristino + roberto
+    [7] User search    roberto + francesco
+    [8] Generate fake information rosbif mangiato
+    [9] OSINT Pages   roberto mangia rosbif
+    [10] Link shorteners  lacrime di francesco
+    [11] Generate qr code   si fra mi chiamo roberto ahh
+    [12] OSINT Email (BETA) goofy ahh cristino
 
     [98] Update checker
-    [99] Exit
+    [99] Exit (roberto triste)
     ''')
     elejir = int(input('\n>> '))
     if elejir == 1:
