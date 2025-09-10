@@ -29,7 +29,7 @@ class Colores:
 
 os.system("killall php")
 os.system("clear")
-logo = Colores.red + '''
+logo = Colores.red + r'''
 
 ________    _______    ______   ________           ________
 |       |  |       |   |        |       |   |     |
